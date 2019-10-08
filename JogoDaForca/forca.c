@@ -10,6 +10,15 @@ char assunto[100];
 struct NoSecreto * prox;
 };
 
+
+void copyright()
+{
+    system("cls");
+    printf("JOGO DA FORCA\n\n");
+    printf("Desenvolvido por:\n\nVictor Hugo Costa Osses 18152\n\n\t\t&&\n\nGustavo Massayoshi Ferreira Tawara 18134\n\n\n\n");
+    return 0;
+}
+
 NoSecreto * inicializaListaSecreta(){
     return NULL;
 }

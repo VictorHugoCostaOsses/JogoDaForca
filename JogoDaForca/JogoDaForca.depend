@@ -1,13 +1,13 @@
 # depslib dependency file v1.0
-1570557930 source:d:\2° ano\jogodaforca\forca.c
+1570559048 source:d:\2° ano\jogodaforca\forca.c
 	<stdio.h>
 	"forca.h"
 	<stdlib.h>
 	<string.h>
 
-1570557828 d:\2° ano\jogodaforca\forca.h
+1570559068 d:\2° ano\jogodaforca\forca.h
 
-1570557842 source:d:\2° ano\jogodaforca\main.c
+1570559068 source:d:\2° ano\jogodaforca\main.c
 	<stdio.h>
 	<stdlib.h>
 	"forca.h"
