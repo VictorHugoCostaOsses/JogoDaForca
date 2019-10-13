@@ -12,3 +12,19 @@
 	<stdlib.h>
 	"forca.h"
 
+1570991970 source:f:\2° ano\jogodaforca\forca.c
+	<stdio.h>
+	"forca.h"
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1570991306 f:\2° ano\jogodaforca\forca.h
+
+1570993018 source:f:\2° ano\jogodaforca\main.c
+	<stdio.h>
+	<stdlib.h>
+	"forca.h"
+	<string.h>
+	<locale.h>
+
