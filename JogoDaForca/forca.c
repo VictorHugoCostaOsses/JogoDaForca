@@ -59,7 +59,6 @@ void inserePalavraSecreta(NoSecreto ** l,char word[31],char subject[100])
      {
         novo->prox=(*l)->prox;
         (*l)->prox = novo;
-
      }
 
      *l = novo;
@@ -165,7 +164,6 @@ char inserirLetrasPalavra(char recebe[50],PalavraAleatoria * p,int n)
     n++;
     inserirLetrasPalavra(recebe,p,n);
     }
-
 return recebe[50];
 }
 

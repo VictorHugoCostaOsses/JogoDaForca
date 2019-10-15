@@ -18,7 +18,7 @@ scanf("%s",nome);
 
 NoSecreto * lstSecreta = inicializaListaSecreta();
 PalavraAleatoria * noPalavraAleatoria = inicializaListaPalavraAleatoria();
- carregaListaArquivo(&lstSecreta,"F:\\2° ano\\JogoDaForca\\palavras.dat");
+ carregaListaArquivo(&lstSecreta,"D:\\2° ano\\JogoDaForca\\palavras.dat");
 
 printf("1 -Digite 1 para começar o jogo:\n");
 printf("2- Digite 0 para encerrar o jogo\n");
